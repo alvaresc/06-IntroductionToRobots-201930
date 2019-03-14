@@ -23,8 +23,8 @@ import math
 class RoseBot(object):
     def __init__(self):
         # Use these instance variables
-        self.drive_system = DriveSystem()
-        self.sound_system = SoundSystem()
+        #self.drive_system = DriveSystem()
+       # self.sound_system = SoundSystem()
 
 ###############################################################################
 #    DriveSystem
